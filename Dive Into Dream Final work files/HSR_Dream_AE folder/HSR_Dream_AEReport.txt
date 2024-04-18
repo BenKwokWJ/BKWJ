@@ -1,0 +1,217 @@
+Report created: 
+	19/4/2024	1:37:19 am
+
+Project name: HSR_Dream_AE.aep
+
+Source files collected to: 
+	C:\Users\Benja\OneDrive\Desktop\Dive Into Dream Final work files\HSR_Dream_AE folder
+
+Source files collected: All
+
+Collected comps:  
+	HSR_DiveIntoDream
+	HSR_2ndHalf
+	HSR_1stHalf
+	Colorful Cartoon Transition 01 Color
+	Seamless Smoke Transitions 01 Color
+	Colorful Cartoon Transition 02 Color
+	Colorful Cartoon Transition 03 Color
+	Colorful Cartoon Transition 04 Color
+	Colorful Cartoon Transition 05 Color
+	Colorful Cartoon Transition 06 Color
+	Colorful Cartoon Transition 07 Color
+	Colorful Cartoon Transition 08 Color
+	Colorful Cartoon Transition 09 Color
+	Colorful Cartoon Transition 10 Color
+	Transition 01 Placeholder
+	Transition 02 Placeholder
+	Transition 03 Placeholder
+	Transition 04 Placeholder
+	Transition 05 Placeholder
+	Transition 06 Placeholder
+	Transition 07 Placeholder
+	Transition 08 Placeholder
+	Transition 09 Placeholder
+	Transition 10 Placeholder
+	Colorful Cartoon Transition 01
+	Colorful Cartoon Transition 02
+	Colorful Cartoon Transition 03
+	Colorful Cartoon Transition 04
+	Colorful Cartoon Transition 05
+	Colorful Cartoon Transition 06
+	Colorful Cartoon Transition 07
+	Colorful Cartoon Transition 08
+	Colorful Cartoon Transition 09
+	Colorful Cartoon Transition 10
+	Final Comps
+	CCT 01
+	CCT 02
+	CCT 03
+	CCT 04
+	CCT 05
+	CCT 06
+	CCT 07
+	CCT 08
+	CCT 09
+	CCT 10
+	Navigation
+	Pre-comp 1
+	Seamless Smoke Transitions 02 Color
+	Seamless Smoke Transitions 03 Color
+	Transition Layer
+	Seamless Smoke Transitions 04 Color
+	Seamless Smoke Transitions 05 Color
+	Seamless Smoke Transitions 06 Color
+	Seamless Smoke Transitions 07 Color
+	Part2
+	Clockie
+	Seamless Smoke Transitions 08 Color
+	Seamless Smoke Transitions 09 Color
+	Seamless Smoke Transitions 10 Color
+	Transition 01 Placeholder 01
+	Transition 01 Placeholder 02
+	Transition 02 Placeholder 01
+	Transition 02 Placeholder 02
+	Transition 03 Placeholder 01
+	Transition 03 Placeholder 02
+	Transition 04 Placeholder 01
+	Transition 04 Placeholder 02
+	Transition 05 Placeholder 01
+	Transition 05 Placeholder 02
+	Transition 06 Placeholder 01
+	Transition 06 Placeholder 02
+	Transition 07 Placeholder 01
+	Transition 07 Placeholder 02
+	Transition 08 Placeholder 01
+	Transition 08 Placeholder 02
+	Transition 09 Placeholder 01
+	Transition 09 Placeholder 02
+	Transition 10 Placeholder 01
+	Transition 10 Placeholder 02
+	Final Comps
+	Seamless Smoke Transitions 01
+	Seamless Smoke Transitions 02
+	Seamless Smoke Transitions 03
+	Seamless Smoke Transitions 04
+	Seamless Smoke Transitions 05
+	Seamless Smoke Transitions 06
+	Seamless Smoke Transitions 07
+	Seamless Smoke Transitions 08
+	Seamless Smoke Transitions 09
+	Seamless Smoke Transitions 10
+	2dnewelement 45
+	2dnewelement 48
+	2dnewelement 52
+	2dnewelement 54
+	2dnewelement 55
+	2dnewelement 57
+	2dnewelement 69
+	final- 183
+	final- 184
+	final- 190
+	Navigation
+	Seamless_06-1
+	Seamless_08-1
+	Seamless_09-1
+	Seamless_10-1
+	Seamless_12-1
+	Seamless_13-1
+	Seamless_13-1
+	Seamless_14-1
+	Seamless_15-1
+	Seamless_26-1
+	SST_01
+	SST_02
+	SST_03
+	SST_04
+	SST_05
+	SST_06
+	SST_07
+	SST_08
+	SST_09
+	SST_10
+	Final Comp
+	Test
+	
+Number of collected files:  358
+
+Size of collected files:  2.8 GB
+
+Collected source files: 
+	Sequence "Foreground_Env.[0000-0150].tga" at C:\Downloads\First_Half_DreamRender with 151 files and 0 auxiliary files
+	C:\Downloads\Paper Tear NO BG.avi
+	Sequence "134.Camera_Dont_Touch_Me.[0134-0139].tga" at C:\Downloads\Second_Half_DreamRender_Detached_V2 with 6 files and 0 auxiliary files
+	Sequence "Foreground_Env_P2.[0140-0300].tga" at C:\Downloads\Second_Half_DreamRender_P1 with 161 files and 0 auxiliary files
+	C:\Downloads\Strikers Showtime transition.mp4
+	C:\Downloads\Videohive_Colorful_Cartoon_Transitions_for_After_Effects_50917534\Colorful Cartoon Transitions\(Footage)\03. Other\47675821_action-extreme-sports_by_bright_light_preview.mp3
+	C:\Downloads\Videohive_Seamless_Smoke_Transitions_for_After_Effects_46175844\Seamless Smoke Transitions\(Footage)\03. Other\Music\20904095_extreme-racing_by_bright_light_preview.mp3
+	C:\HSRDreamRender\Clockie.mp4
+	C:\HSRDreamRender\Second Half Textures\GoldenHour.tga
+	C:\HSRDreamRender\Second Half Textures\kloofendal_48d_partly_cloudy_puresky_8k.hdr
+	C:\HSRDreamRender\Second Half Textures\World_Penacony.webp
+	Sequence "Transition Frames[0120-0139].tga" at C:\Users\Benja\OneDrive\Desktop\HSR Dream Render with 20 files and 0 auxiliary files
+	Sequence "M7-P1_[001-011].tga" at C:\Users\Benja\OneDrive\Desktop\HSR First Half Render with 11 files and 0 auxiliary files
+	C:\Users\Benja\Videos\2024-04-18 17-08-55.mp4
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  28
+
+Effect:  Box Blur
+	
+Effect:  Brightness & Contrast
+	
+Effect:  CC Radial Fast Blur
+	
+Effect:  Checkbox Control
+	
+Effect:  Color Balance
+	
+Effect:  Color Balance (HLS)
+	
+Effect:  Color Control
+	
+Effect:  Corner Pin
+	
+Effect:  Drop Shadow
+	
+Effect:  Fast Box Blur
+	
+Effect:  Fill
+	
+Effect:  Find Edges
+	
+Effect:  Glow
+	
+Effect:  Gradient Ramp
+	
+Effect:  Hue/Saturation
+	
+Effect:  Keylight (1.2)
+	
+Effect:  Mocha AE
+	
+Effect:  Motion Tile
+	
+Effect:  Noise
+	
+Effect:  Optics Compensation
+	
+Effect:  Simple Choker
+	
+Effect:  Slider Control
+	
+Effect:  Tint
+	
+Effect:  Transform
+	
+Effect:  Tritone
+	
+Effect:  Twirl
+	
+Effect:  Venetian Blinds
+	
+Effect:  Warp
+	
+
